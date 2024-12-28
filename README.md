@@ -9,9 +9,9 @@
 
 <div align="center">
  
- 🔭 Working on: **a Portfolio Website**
+ 🔭 Working on: **a Resume Screener**
  
- 🌱 Currently learning: **React, Three.js**
+ 🌱 Currently working with: **SQL, Python**
  
 
  </div>
