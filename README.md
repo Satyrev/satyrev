@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 Working on: **a new Project**
+ 🔭 Working on: **a new project**
  
  🌱 Currently working with: **MongoDB, React**
  
